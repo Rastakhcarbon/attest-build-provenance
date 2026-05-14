@@ -52,3 +52,20 @@ Documentation for previous versions of this action can be found
 [6]:
   https://docs.github.com/en/actions/security-guides/using-artifact-attestations-to-establish-provenance-for-builds
 [7]: https://github.com/actions/attest
+
+
+
+
+rastarakh-gqe-termux/
+│
+├─ engine/
+│   ├─ mythic_engine.py
+│   ├─ gqe.py
+│   ├─ tone_map.json
+│   └─ symbols.json
+│
+├─ main.py
+├─ requirements.txt
+├─ start.sh
+├─ .env
+└─ README-GQE.md
